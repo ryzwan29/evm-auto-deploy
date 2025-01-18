@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Prom Testnet",
+    "rpcUrl": "https://testnet-rpc.prom.io",
+    "chainId": "584548796",
+    "symbol": "T-PROM",
+    "explorer": "https://testnet.promscan.io"
+  },
+  {
+    "name": "Rome Network",
+    "rpcUrl": "https://rome.testnet.romeprotocol.xyz",
+    "chainId": "200011",
+    "symbol": "ROME",
+    "explorer": "https://rome.testnet.romeprotocol.xyz:1000"
+  },
+  {
+    "name": "Sepolia",
+    "rpcUrl": "https://sepolia.infura.io",
+    "chainId": "11155111",
+    "symbol": "SepoliaETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
