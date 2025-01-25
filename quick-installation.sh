@@ -57,7 +57,7 @@ fi
 # Clone github repository
 echo -e "\033[1;32m\033[1mClone github repository...\033[0m"
 git clone https://github.com/ryzwan29/evm-auto-deploy.git
-cd evm-auto-deploy.git
+cd evm-auto-deploy
 
 # Install dependencies
 echo -e "\033[1;32m\033[1mInstalling requirements dependencies...\033[0m"
